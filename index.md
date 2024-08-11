@@ -7,7 +7,7 @@ layout: home
 
 <h1>Olá! Seja bem-vindo!</h1>
 
-<p>Vamos colocar um HTML de exemplo aqui que as pessoas possam editar e colocar o que elas quiserem!</p>
+<p>Ainda tô sem ideias sobre o que colocar aqui</p>
 
 <br>
 
