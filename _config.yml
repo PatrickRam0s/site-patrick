@@ -18,13 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Seu nome
-email: seu@email.com
+title: Patrick Ramos Costa
+email: patrickramos737@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Escreva uma pequena descrição sobre você!
-baseurl: "/site-pessoal" # the subpath of your site, e.g. /blog
-twitter_username: jekyllrb
-github_username:  jekyll
+  Olá, Mundo!
+baseurl: "/site-patrick" # the subpath of your site, e.g. /blog
+github_username:  PatrickRam0s
 
 # Build settings
 theme: jekyll-theme-yat
